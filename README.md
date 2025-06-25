@@ -17,6 +17,9 @@ Avaliar o impacto da pandemia de COVID-19 na infraestrutura escolar e seu reflex
 🔗 **Link para a pasta contendo os dados e o dashboard**:  
 [https://drive.google.com/file/d/161U6cjHPnA2cBAbVAYsqthLv7BeK8Mcu/view?usp=drive_link](https://drive.google.com/file/d/161U6cjHPnA2cBAbVAYsqthLv7BeK8Mcu/view?usp=drive_link)
 
+🔗 **Link para a apresentação**:
+https://www.canva.com/design/DAGoHmKi-hc/xFWhqbt-3WtWJrQai7Ezkg/edit?utm_content=DAGoHmKi-hc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 > ⚠️ **Importante:** Faça o download da pasta para visualizar corretamente os arquivos do dashboard.
 
 ## 👨‍💻 Equipe
