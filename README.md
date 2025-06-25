@@ -34,6 +34,4 @@ Os dados utilizados são de acesso público e foram obtidos a partir dos microda
 
 ## 🧠 Metodologia
 
-O trabalho segue a abordagem CRISP-DM, com foco nas etapas:
-- Compreensão dos dados (*Data Understanding*)
-- Preparação dos dados (*Data Preparation*)
+O trabalho segue a abordagem CRISP-DM.
