@@ -14,7 +14,8 @@ Avaliar o impacto da pandemia de COVID-19 na infraestrutura escolar e seu reflex
 
 ## 📊 Dashboard
 
-- Link para o dashboard: [Inserir link do Power BI ou Tableau publicado]
+- Link para a pasta contendo os dados e o dashboard: https://drive.google.com/file/d/161U6cjHPnA2cBAbVAYsqthLv7BeK8Mcu/view?usp=drive_link
+** Faça o download dele para visualização** 
 
 ## 👨‍💻 Equipe
 
